@@ -175,5 +175,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **Itah Judah** - (https://github.com/Jhudharh)
-* **Solomon Thompson** - (https://github.com/soulo-mon)
+* **Itah Judah** - email: judahitah@gmail.com (https://github.com/Jhudharh)
+* **Solomon Thompson** - email: solomont98@yahoo.com (https://github.com/soulo-mon)
